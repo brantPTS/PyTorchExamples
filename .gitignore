@@ -23,3 +23,5 @@ docs/venv
 # development
 .vscode
 **/.DS_Store
+*.tar
+report_dynamo_export.sarif
